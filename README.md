@@ -1,4 +1,5 @@
 img src="https://i.imgur.com/L4QkhAs.png" alt="lab 7"/>
+
 </p>
 
 # Microsoft Azure Lab: Network File Shares and Permissions
